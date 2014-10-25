@@ -3,7 +3,7 @@ cloud_files
 
 https://www.drupal.org/project/cloud_files
 
-
+Uploads all images, css, js etc. to Rackspace CDN during cron jobs.
 
 Installation
 
